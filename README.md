@@ -1,7 +1,7 @@
 # Stanford-Product-Management-Partnership
 The information in this repo highlights the Product Management outputs from being on the teaching team for EE205 Product Management for Electrical Engineers and Computer Scientists at Stanford University. 
 
-Context for Stanford University's EE205 Product Management.
+Context for Stanford University's EE205 Product Management (all below information taken from https://canvas.stanford.edu/courses/52030).
 
 Class Vision:
 
